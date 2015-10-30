@@ -10,6 +10,7 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/drawabletest" />
             <option value="$PROJECT_DIR$/fragment_sample" />
           </set>
         </option>
